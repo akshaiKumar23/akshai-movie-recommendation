@@ -3,3 +3,5 @@ This repository contains a movie recommendation system implemented using machine
 
 # Dataset
 The dataset used in this project is sourced from Kaggle(https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata). It consists of a collection of movies along with their associated features such as genre, release year, cast, and user ratings. The dataset provides valuable information that allows us to build a robust recommendation system.
+
+Click here(https://akshai-movie-recommendation.streamlit.app/) to use the recommendation system
